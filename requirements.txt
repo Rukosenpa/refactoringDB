@@ -1,1 +1,5 @@
 jupyter
+pandas
+numpy
+sqlalchemy
+psycopg2_binary
